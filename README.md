@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://guhan.vercel.app/">guhan</a></h2>
+<h2 align="center">Live Demo<br/> <a target="_blank" href="https://guhan.vercel.app/">Guhan</a></h2>
 
 <br/>
 
